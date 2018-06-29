@@ -73,7 +73,9 @@ end
 
 
 def new_hash
-	hash = {}
+	new_hash = {}
+end
 
-
+def actor
+	actor_hash = {}
 end
